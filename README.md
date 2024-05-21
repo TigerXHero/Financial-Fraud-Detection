@@ -33,7 +33,7 @@ Los datos reportados a nivel mundial fueron extraidos de fuentes oficiales, http
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/pasos.png)
 
 ### 1. Preprocesamiento de Datos
-![image](https://github.com/TigerXHero/Covid-19-Analysis/blob/main/images/0.png)
+
 
 ### 2. Exploración de Datos
 
@@ -53,10 +53,11 @@ Exploremos los datos del dataframe mediante visualizaciones
 ### 4. Evaluación y Selección del Modelo
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/evaluacion_modelos.png)
 
-### 2. 
+## Conclusines:
 
+Determinamos que el modelo Random Forest era la opción más apropiada debido a sus ventajas específicas en términos de métricas de desempeño y capacidad de generalización en conjuntos de datos grandes, complejos y desequilibrados.
 
-Conclusines:
+La implementación de este modelo en un entorno bancario puede mejorar significativamente la capacidad de detectar y prevenir fraudes, reduciendo así las pérdidas económicas y aumentando la confianza de los clientes en la seguridad de las transacciones.
 
 ## Autores
 
