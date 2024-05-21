@@ -27,7 +27,7 @@ Se realizó el trabajo en google Colab con los siguientes pasos:
 - Obtención y tratamiento de datos
 
 El archivo Financial_Fraud_Detection_BigData.ipynb es el código escrito en colab el cual contiene todas las operaciones de analisis, limpieza de datos, Insights construcción de modelos y evaluación.
-Los datos reportados a nivel mundial fueron extraidos de fuentes oficiales, https://covid19.who.int y https://population.un.org/
+Los datos base fueron extraidos de fuentes oficiales, https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
 
 ## Pasos Desarrollados
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/pasos.png)
