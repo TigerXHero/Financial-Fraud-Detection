@@ -53,7 +53,7 @@ Exploremos los datos del dataframe mediante visualizaciones
 ### 4. Evaluación y Selección del Modelo
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/evaluacion_modelos.png)
 
-## Conclusines:
+## Conclusiones:
 
 Determinamos que el modelo Random Forest era la opción más apropiada debido a sus ventajas específicas en términos de métricas de desempeño y capacidad de generalización en conjuntos de datos grandes, complejos y desequilibrados.
 
@@ -63,4 +63,4 @@ La implementación de este modelo en un entorno bancario puede mejorar significa
 
 - [@Gerardo](https://github.com/GeraDLC)
 - [@Isaias](https://github.com/TigerXHero)
-- [@Crisotbal]()
+- [@Cristobal]()
