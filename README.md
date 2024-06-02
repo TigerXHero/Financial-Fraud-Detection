@@ -64,4 +64,4 @@ La implementación de este modelo en un entorno bancario puede mejorar significa
 
 - [@Gerardo](https://github.com/GeraDLC)
 - [@Isaias](https://github.com/TigerXHero)
-- [@Crisotbal]()
+- [@Cristobal]()
