@@ -48,12 +48,13 @@ Exploremos los datos del dataframe mediante visualizaciones
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/mapa_calor_1.png)
 
 ### 3. Construcción de Modelos
-![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/matriz_confusion.png)
+![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/matriz_confusion_1.png)
+![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/matriz_confusion_2.png)
 
 ### 4. Evaluación y Selección del Modelo
 ![image](https://github.com/TigerXHero/Financial-Fraud-Detection/blob/main/images/evaluacion_modelos.png)
 
-## Conclusines:
+## Conclusiones:
 
 Determinamos que el modelo Random Forest era la opción más apropiada debido a sus ventajas específicas en términos de métricas de desempeño y capacidad de generalización en conjuntos de datos grandes, complejos y desequilibrados.
 
